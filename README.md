@@ -57,8 +57,8 @@ Pandas • NumPy • Tableau
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=000&text_color=000" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&ring=000&fire=000&currStreakLabel=000" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vdsa7391&show_icons=true&hide_border=true&title_color=000&text_color=000" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vdsa7391&hide_border=true&ring=000&fire=000&currStreakLabel=000" height="150"/>
 </p>
 
 ---
@@ -66,7 +66,7 @@ Pandas • NumPy • Tableau
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=ffffff&color=000000&line=000000&point=555555&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vdsa7391&bg_color=ffffff&color=000000&line=000000&point=555555&hide_border=true"/>
 </p>
 
 ---
